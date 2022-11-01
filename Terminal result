@@ -1,0 +1,17 @@
+        //TERMINAL RESUTL://
+firstName
+Adam
+Adam
+Kowalski
+17
+person1 |||
+Person data return: 
+firstName: firstName
+lastName: lastName
+age: 0
+
+Set data to Person 
+Person data return: 
+firstName: Adrian
+lastName: Nowak
+age: 34
